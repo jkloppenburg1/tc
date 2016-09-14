@@ -24,9 +24,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
         android:id="@+id/countTextView"
         android:layout_above="@+id/tapButton"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="165dp" />
+        android:layout_marginBottom="165dp"
+        android:text="0" />
 </RelativeLayout>

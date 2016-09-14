@@ -24,6 +24,6 @@ public class Counter
 
     public void addNumberOfTaps()
     {
-        this.numberOfTaps++;
+        this.numberOfTaps += 1;
     }
 }
